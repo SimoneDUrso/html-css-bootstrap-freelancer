@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgba(2, 35, 56, 0.925);
+}
+
+.bg-green {
+    background-color: rgb(62, 196, 133);
+}
+
+.height-400 {
+    height: 400px;
+}
