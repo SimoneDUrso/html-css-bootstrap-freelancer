@@ -15,3 +15,27 @@ header {
 .height-400 {
     height: 400px;
 }
+
+.height-300 {
+    height: 300px;
+}
+
+.height-500 {
+    height: 500px;
+}
+
+.bg-lightblue {
+    background-color: rgb(69, 127, 179);
+}
+
+.bg-darkblue {
+    background-color: rgb(46, 96, 140);
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-beige {
+    background-color: rgb(208, 176, 132);
+}
