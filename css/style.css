@@ -100,3 +100,15 @@ header {
 .border-bottom {
     border-bottom: 2px solid black;
 }
+
+.icons {
+    padding: 10px 10px;
+    border: 1px solid white;
+    border-radius: 100%;
+    margin: 0px 5px;
+    font-size: 20px;
+}
+
+.text-green {
+    color: rgb(62, 196, 133);
+}
