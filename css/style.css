@@ -44,3 +44,28 @@ header {
     border: 1px solid grey;
     font-size: 24px;
 }
+
+.content.pt-4 img {
+    width: 200px;
+    height: 200px;
+}
+
+.lines-white:after,
+.lines-white:before {
+    content: '';
+    width: 150px;
+    height: 3px;
+    background-color: white;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.lines-black:after,
+.lines-black:before {
+    content: '';
+    width: 150px;
+    height: 3px;
+    background-color: black;
+    display: inline-block;
+    vertical-align: middle;
+}
