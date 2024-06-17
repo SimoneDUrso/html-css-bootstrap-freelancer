@@ -69,3 +69,30 @@ header {
     display: inline-block;
     vertical-align: middle;
 }
+
+.lines-small-white:after,
+.lines-small-white:before {
+    content: '';
+    width: 90px;
+    height: 3px;
+    background-color: white;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.lines-small-black:after,
+.lines-small-black:before {
+    content: '';
+    width: 90px;
+    height: 3px;
+    background-color: white;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.container-fluid.bg-green button {
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
